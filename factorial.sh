@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Enter the number to find Factorial"
-read num
+read numbers
 result=1
 while [ $num -gt 0 ]
 do
