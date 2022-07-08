@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "hello"
+echo "hello how are you"
 echo "Enter the string name"
 read name
 count=1
