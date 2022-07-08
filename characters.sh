@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "hello how are you"
-echo "Enter the string name"
+echo "Enter the string name" hii
 read name
 count=1
 while read line
